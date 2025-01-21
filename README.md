@@ -10,7 +10,7 @@
    - AI Gateway
    - Cloudflare Vectorize
    - Workers AI
-3. [ ] Use sitemap to find all the documentation pages
+3. [x] Use sitemap to find all the documentation pages
 4. [ ] Allow the user to use its own OpenAI API key
 5. [ ] put a link to the Github repo using st.sidebar
 
